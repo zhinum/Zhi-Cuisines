@@ -18,7 +18,7 @@ body {
   background-color: rgb(58, 4, 4);
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/images/kitchen.jpg");
+    url("/src/images/kitchen.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
